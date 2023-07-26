@@ -1,0 +1,9 @@
+principio DRY -> No repetir las cosas
+variables -> downUp
+funciones -> downUp
+
+clases -> UpDown
+tipos creados -> UpDown
+
+
+if possible in English
